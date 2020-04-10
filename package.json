@@ -1,5 +1,5 @@
 {
-  "name": "poc-file-dupe-checker",
+  "name": "ts-node-template",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Mike Joyce <michael.joyce@target.com>",
