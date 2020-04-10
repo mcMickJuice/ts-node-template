@@ -1,1 +1,3 @@
-console.log('hello there')
+export function test(): boolean {
+  return true
+}

@@ -1,5 +1,7 @@
+import { test } from './index'
+
 describe('test', () => {
   it('works', () => {
-    expect(10).toBe(10)
+    expect(test()).toBe(true)
   })
 })
