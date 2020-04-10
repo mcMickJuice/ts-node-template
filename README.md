@@ -1,0 +1,1 @@
+- run `nvm use` prior to `yarn`, this will set the appropriate node version...though currently it's lts so that might not be appropriate and we should instead pin to a specific verson
